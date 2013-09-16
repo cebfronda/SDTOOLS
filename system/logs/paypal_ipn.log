@@ -1,0 +1,452 @@
+[04/23/2010 7:47 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 23 Apr 2010 07:48:01 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=qKIPYqqurE516Jp9hs4Xypqt647XtNcBnpl3T-5L52p6QEXtuwwii8D_E-YstOjEGvnZtQgei6X_kjQmA6aPnCX8itH59b-BNtNrsdmFCaGwzvTS1CPsc44bvzW1XRDuJnagFm%7cnNaNCIx8e3LWs5GE8R9druKjRDb6X6em2Gdqogp89CkyDHFRh67bg26e8ksUlkeZqlodLm%7c7o8Hnks-YZg_Rkp1luZDlSPobx9veA60Sut9Oix-97BvOUHfwZCXzRH7IMws8A1x9FD6k0%7c1272008882; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 20-Apr-2020 07:48:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Thu, 18-Apr-2030 07:48:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.114.16.1272008881957845; path=/; expires=Thu, 10-Mar-04 01:19:45 GMT
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 3:00 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 03:00:37 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=bcrwMOSu7kqgIrmCPbqqencxar6_dX9wwYY1KwjH6wy51kKH2x5NHhbEZ_Pz5afQ2mCkC0f5LTC4ihPGHbpGohJorCHH1UQ3hp2McoEM9MtSNL6aFTEjEMtwRhtBDa9q-6hN5G%7c-1cznvAWY_DsXRvE5hfQfnMb5sTWwzWxsJNXl_YA8rw0fVZ99vVSYFCphAZfFcTX5OLrg0%7cSLhxDzI1YHjBrtMjDSu51xiwOisGAXMR4ZPMKf8QSHCWW1OQ1TNqHaI2DWkQ1z7ClyTPTG%7c1272250837; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 03:00:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 03:00:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.249.1272250837057769; path=/; expires=Sat, 12-Mar-04 20:32:21 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 3:02 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 03:02:13 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=c9W8Axh9Vg7N-7Hk8bz7tMcF0ymAEYJdOn2i351iAzK9zDmd5Mj_9uOCPz75e4Ghj9UykxtF_g7H041G0_dVJjUF4jpsLQyBZOy0XA-wCJkZJK9HI7iyatH-Q7ujo9jhlIWQ3G%7cc6qZ0EcAiTLt3a2_FGlO3pn9iCdS2XlYzlU5t2eMy5EHcXBmM9VxA4z-Vj8vv113VTZcx0%7cqmaPzuT7cQXUIgirNZwz2NmBNcR8Pzpwez6U_VDD-sLWY1l0thr5P6KwargMUd6-4OmGRG%7c1272250933; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 03:02:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 03:02:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.249.1272250933100616; path=/; expires=Sat, 12-Mar-04 20:33:57 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 3:02 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 03:02:36 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=qYc8gP37lDZufD07DeXC3gJA2sXusH1AnOmGXSXiKNeNW6eZWQjCRKobqD1iT439MB_rjVbgtsehVtVbTvx04uUW6Sl0cTBS-AQbZly__TVluzx0Lh-yRzjn5giw6mUdjK9SPW%7c8rpfaOKYh-Leu866rDeMjBm4w6N492Z_GGg7JzAbt4-8J5lh9LndlGMH5GG4IS0k_Hxc3m%7ctg_BT-_oxvNxhDAkaGbqNbIw2n87Su74ylS4ISZT-T58NSoMWIB0KsO4TxVUgMBB6v1oZ0%7c1272250956; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 03:02:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 03:02:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.249.1272250956325501; path=/; expires=Sat, 12-Mar-04 20:34:20 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 3:07 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 03:07:54 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=VLa4D0G68YBRQ5k6zAx5UcS_9wfw6ziG2sd-x_R5Y4sDyC9bh5MS1KJB8LyWKOeFWapYSzLrOQk1DQSVhXB6GWf8JDEQEdDHDk4sub3Ij1hB-LwYXlcho0BD4zvEVBp2QyG090%7crErlmJR-P2sXRuJeG9HRzRF-dEdx2JEuxrdnQV562HSehCDoL4wfwQSdZW18LiHsG0P4D0%7cmgGEHDv91v9-32DTR3feKYKD_I9pdbIXrHCjjL7ZBeeg4yeyVmEYkI5qi1gZu95Cfrtb4G%7c1272251275; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 03:07:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 03:07:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.252.1272251274885731; path=/; expires=Sat, 12-Mar-04 20:39:38 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 3:08 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 03:08:50 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=XInK3WUUUJUWXcHE4qWGQwmGoq0j-JFpOIFhwo7ciYKNRQ43U29DjZa6l5E73N-jWUWZ0FDYG4RqYmPTTUB0Tf7o8vqviRyKpdy8Wbj97O9qrD7rMnj4HK88I5hidWVYyPHP_W%7ch6-0-REvzYIEHkxqg3s8eaViNw9VlXpuYmIsuexSMSXHhTmK0RYws22GOU43pkdM88f6aG%7c8Jq6wB8XJf4PiWj0CGuM2cTsbPirYxcUYI3eyNeJfCr3Qo7oph9N6DE7i8z877p3Cv9if0%7c1272251330; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 03:08:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 03:08:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.252.1272251330535196; path=/; expires=Sat, 12-Mar-04 20:40:34 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=93
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 3:15 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 03:15:53 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=awFzl2n-uuv2E_3FXReKxFqhAx5nH-szljMZlP-pfFX-ES4ncmk3LhKi_-WJCIxRy1mbG190XSGdC0LsELlTOH1AFKDpKV-XCaUm0WOZV-tUBz0QRM9Jd4zXofbiJZGRFUHPDG%7cAoCW-RxX2LcfY8tlASlHAWP4gB9AFhezfFaWksQDzvOrmW5oIPTzOhc5Z5Eu0f0ZGXbxGW%7cVm0ElVWXsKEUwidU-SbJjBtMA9x5yCs0F18dkh7R10A3A6vCepKOJP_Vi3BtGgJxYIRplm%7c1272251754; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 03:15:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 03:15:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.114.13.1272251753477645; path=/; expires=Sat, 12-Mar-04 20:47:37 GMT
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=79
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 3:16 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 03:16:13 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=iQIFgKOx9Saptr4F2hDio8KyC6remi0srR0b0z3s-XEzZ1OfWISNoGa1mor7-00qIgN3t8gaCBU9gxWgvTq0dAK9C6vRTl5DYUxuHLEuOIB9v-65eq3mXjjny1aXm4eitlN89m%7ctxq4S6ynBGnMrp8cKWgiGr6jxW45zqkRhcEWFJezpgDUY6SgJa673FYXopX1S3zXAlxTPm%7c3ooxCZX_ynp-kLHEpfpBnLzhyX6ktMIySe8wmAJ3rp8IBXFWi6zq6jjNAGq30Xhy7VdVim%7c1272251773; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 03:16:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 03:16:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.252.1272251773457894; path=/; expires=Sat, 12-Mar-04 20:47:57 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=94
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 3:16 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 03:16:20 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=seJjYOU8puqPV4jcSFDxplazKi382QuP-7NgjeguF7SHkKrlYZEoxEDCXd5UrvKSuvdwaLySb5uX_a9lj58ChN01qPrSN6x5AHh16UOCpoIzyC4W6RMKhRVt8k9KlYkuv1nZgm%7cX4hK0bBu842hrUqDhU4Dt0QZzQMXtRfyrN-5mXKfkh3yEzhR7eP3eEjZvuwtGusLFTZuaG%7cw6T69oiC44eq6CiD5K0I-Io7ECmcmquyigny3LBrj1UJi95bo6wIAyvu30p_tXmhnyXozW%7c1272251781; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 03:16:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 03:16:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.252.1272251780338571; path=/; expires=Sat, 12-Mar-04 20:48:04 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=88
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 3:17 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 03:17:56 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=yVJKtmVT3g3CkWPVkeTcueJ6_W30Zv2gehyJSTBgVdU8AQG0s0O0X-V0rSasuZdop9VtTx09h16BHjy1gSrDTMRpUwmK6m3j3tXGBi3YwXcjLBY11wrFyX7GXpXrLZs2ptB7iG%7c77HPWQnroa8ROA542ohdV_4R8sNpgaSUBHJe6o0qqn4ZMHLocScz7Exz-nFcOQLnA7LJom%7cyHs8pNgIo4QpKCRud5h3uajzvIpHHBV7uGd_ibaWWhgVgvOR5mJ1YLW7XpR29tHU0UgT_W%7c1272251877; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 03:17:57 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 03:17:57 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.252.1272251876771485; path=/; expires=Sat, 12-Mar-04 20:49:40 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=94
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 6:25 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 06:25:47 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=U3DsjHcIJwi06rJA19HdNK0wJCTx10JJ5cwf_Jc1PMSrNUDk0vYeeBCzikOBa8jS67azNxwj_TyEkNzRPcahgUwTShMR8y5f-Wgo89rmY4xYiXIHryV9EGO4Kkv9zcGUYb2cEW%7cbi4R_MCyjxbS3GnmlZ61ImPd456GzKEIWdo-joRMXUHViem5TYhvqmRWo9raGC-5h_yrDW%7cw3difemtfryaQy42pB80tFgXypYjTZHqeA1_dJVjTyIiNotUmNCe1QY81mLn6XZV08S9nm%7c1272263147; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 06:25:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 06:25:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.252.1272263147289450; path=/; expires=Sat, 12-Mar-04 23:57:31 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=93
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 6:25 AM] - FAIL: fsockopen error no. : 
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ 
+
+[04/26/2010 7:05 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 07:05:41 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=zC9hrZdpU-flHpff43umgHVCirX4CbYYjoN9hp5It7M_s5BEirD73uoeKwe9IQmb8Z4cYtheWsNc9UKefoXpD0_mIqGh4aGiyRvbNdkuGuylG0jv0g3PbQBOnAMlrHz2P-4iHW%7cHwYb_Uuyv7k7EMVrsliNoseOGwlfrB2oQVJbmTVXUzdCvA5rYI2fIY31saL2hDQu-t5G8W%7cpAEmFHx5FG6YGaZpV7q1Dd3xdkEpG2kuBkX6YSsSjIkY39hqSOafncK6tyzvQVcHH7Om0G%7c1272265541; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 07:05:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 07:05:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.114.13.1272265541242235; path=/; expires=Sun, 13-Mar-04 00:37:25 GMT
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/26/2010 7:06 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Mon, 26 Apr 2010 07:06:29 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=fhx-wEYar7dge9UmhawDSx6K2Rwa8tDFNJa7Xw_2maxHa_8hJvH9p3BnPjLiMe1VUaGAy1zjdajc6nqjl16UrDbuYkTc2lGeUcY7dwq6qgzD1E0PQ02GzF0eJOOIAOEpaYKCO0%7cLCKEmLSLvFh-pduhpeBe7cr0bKlVy3KgO2o2rU6zM-1yPMrB42omeL_aJz4X31egfBUD30%7cbZC58wQ8EU61Mp0B1dFT-4nK0gLC7anNpnaZ2oFYM0MFZjzueS_NuEg6eGDrQjxXl0_7Fm%7c1272265592; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 23-Apr-2020 07:06:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Sun, 21-Apr-2030 07:06:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.191.114.13.1272265589524779; path=/; expires=Sun, 13-Mar-04 00:38:13 GMT
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=94
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/27/2010 10:12 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 27 Apr 2010 10:12:45 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=qTkOnZXtO4-7NCO69d0bdJc0C7zgDkm4n0IeOj6Y1VulJfE4x1TFAOV8pTN6PsDgYFOhsD5dN91NTK0LhO1oWgmpxG1CpnuytgYkVhjBxbUfejIB4tifD42ud0xHZvnfUvxC90%7cz_7Clw3ca7Azm0xB6DnIE_gkXigV1x22EvAQuknu4afWtM_wsiLaM_ZVVGAMCirRkzm_5G%7ceTHOd7T1NsP9bk1a4m42mulcJs-UOe8k0zWbl27dM63sPV8q5eu8SESlzB30JXS4zi_xd0%7c1272363166; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 24-Apr-2020 10:12:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Mon, 22-Apr-2030 10:12:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.249.1272363165721446; path=/; expires=Mon, 14-Mar-04 03:44:29 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/27/2010 10:13 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 27 Apr 2010 10:13:38 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=O_G0vGnG7fszHLssCpRginKBUfPzpSjwSAVpnL2En6WF6LpEQFzHgQzQ7Hs5NQXe1ZR4NYZ_pqSbnQeBEZnUlSkp7Ny29acbym_oRRWexc3ufRYKv53AliaCnLNejnFZRigcmm%7cGsZ8xmMtIZnGtECLq6ezfNqqUQwsCXGGZRGmd-YqdTbXexktjG7fPVB-MJkWxibmbbJnTW%7c0EhkwPnUX2h42wy2RS59xSo4gZ1jNLErJfOiTzxF1O2atDAcxCcb4hpi43414sZc8PZEnG%7c1272363219; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 24-Apr-2020 10:13:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Mon, 22-Apr-2030 10:13:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.249.1272363218896487; path=/; expires=Mon, 14-Mar-04 03:45:22 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/27/2010 10:24 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 27 Apr 2010 10:24:26 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=BxiuFQi_JSFAg1RnOQ4rVjLcz02ZYJ-pLpTM1Pe_fI4aFUtmYCB2iz5ThoeHKwLBXmb7LB224m5mTk3_irzjRWbA1wOBvySbsbGpqQR6fkW45TQr-1walTXQ0_lqAdjOv6uGr0%7cMGsUdOPbW4dvMk7L_nYVuwu4GZ-xHkUimZ1wkEQwurfrpS2Bt1jIJzVxBLXALzopIv6gF0%7cvtLe0dM5PULn8gHoJdwyLfmzev9-6F8mkQD1w0wnohRrCUNJVMThA0MKKUjXvpzr7nBMYm%7c1272363866; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 24-Apr-2020 10:24:26 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Mon, 22-Apr-2030 10:24:26 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.252.1272363866312017; path=/; expires=Mon, 14-Mar-04 03:56:10 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=75
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/27/2010 10:27 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+payment_action=DoDirectPayment, 0=, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 27 Apr 2010 10:27:18 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=MiF6Tt8gNpxUFUTymGxcfnF4gBUWpKI3qr7mMztxd9xM7sNjCPvZDqFcwpR9tgEDlIVrdWl9PiDlGr3ph2pkkOv3dQqRNg_bCo7J1E4o8nOlKBLqhz5ZRjNYL8rKkPIetRC4_W%7cxjtpLdvXZRABZH521F27kdgB3XAU8-dJbfKPhJPkAZx4Xx3iWDrpARYTGqfj4-jKSPAT4m%7cwn5BEKuFsr_wjAsPis_a5WOitcsFqtZjnCRVkK-2xGH_O1YG7muBkSKQmaFESjX463vpxm%7c1272364038; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 24-Apr-2020 10:27:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Mon, 22-Apr-2030 10:27:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.249.1272364038369046; path=/; expires=Mon, 14-Mar-04 03:59:02 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
+[04/27/2010 10:27 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+payment_action=DoDirectPayment, 0=, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 27 Apr 2010 10:27:48 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=1ydO-PmhrHElV37P8QOoLT8aRh3J6twkLKbCI4lLKihA22cgTpvFm7h32vCjk0BpkgQErFVwHz3CxRrerY1-GNsww0rA1hictILZaZzqRMlwLjaPFIQrvtcddTyjrDk9ceA3hW%7cYVn4WJrwy06JNZr9oAoA-F6POcO7xz4y0ULNpK_OUqtsAxUHS8Q_Gj0htG79ZBL7LxDrjm%7cpVONSmt_FQ6NvoJsBeaYXV2WtvXiurKQe17Vz3_xakGynJrR38oN3RdNCK5VIVL0yBxXLm%7c1272364068; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 24-Apr-2020 10:27:48 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0; expires=Mon, 22-Apr-2030 10:27:48 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.190.11.249.1272364068279381; path=/; expires=Mon, 14-Mar-04 03:59:32 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=500
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
